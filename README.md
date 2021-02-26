@@ -37,5 +37,5 @@ So moving forward to understand how many types of chart are available and how ma
 12. Column Chart
 13. Spread Chart
 14. surface Chart
+15. Chropleth (for Maps)
 
-etc. are type of chart like map chart for world map etc that we will cover in future but now discuss about this type of chart with diffrent library of python.
